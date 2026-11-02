@@ -1,6 +1,20 @@
 # 💫 About Me:
-⚡ Building responsive and user-focused web applications<br><br>⚡ Developing modern frontends with React.js and JavaScript<br><br>⚡ Building scalable backend services with Node.js and Express.js<br><br>⚡ Developing applications with PHP and MySQL<br><br>⚡ Designing and integrating REST APIs for web applications<br><br>⚡ Working with MongoDB and MySQL for application data<br>⚡Developing backend services and REST APIs with Node.js and Express.js<br><br>⚡ Integrating third-party APIs and business platforms<br><br>⚡ Building webhook-based integrations and automated workflows<br><br>⚡ Implementing authentication with JWT and OAuth-based services<br><br>⚡ Integrating AI services including OpenAI and Gemini<br><br>⚡ Working with cloud storage, VPS environments, and production deployments
+## Full-Stack Web Development
+⚡ Building responsive and user-focused web applications<br><br>⚡ Developing modern frontends with React.js and JavaScript<br><br>⚡ Building scalable backend services with Node.js and Express.js<br><br>⚡ Developing applications with PHP and MySQL<br><br>⚡ Designing and integrating REST APIs for web applications<br><br>⚡ Working with MongoDB and MySQL for application data<br><br>
+## Backend, APIs & Integrations
+⚡Developing backend services and REST APIs with Node.js and Express.js<br><br>⚡ Integrating third-party APIs and business platforms<br><br>⚡ Building webhook-based integrations and automated workflows<br><br>⚡ Implementing authentication with JWT and OAuth-based services<br><br>⚡ Integrating AI services including OpenAI and Gemini<br><br>⚡ Working with cloud storage, VPS environments, and production deployments
+## WordPress Plugin & WooCommerce Development
+⚡ Developing custom WordPress plugins for business requirements
 
+⚡ Building WooCommerce extensions and custom functionality
+
+⚡ Integrating third-party APIs into WordPress plugins
+
+⚡ Developing AI-powered WordPress features with OpenAI and Gemini
+
+⚡ Building custom form, invoice, payment, and automation workflows
+
+⚡ Extending existing WordPress plugins through their APIs
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sobanhanif@team.seerox.com) 
